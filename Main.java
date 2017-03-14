@@ -4,6 +4,7 @@ public class Main {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 			Logic.start();
 =======
 		Data.start();
@@ -18,5 +19,8 @@ public class Main {
 	    Graphics.start();
 
 >>>>>>> origin/Graphics
+=======
+		Control.start();
+>>>>>>> origin/Control
 	}
 }
