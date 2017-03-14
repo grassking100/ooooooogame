@@ -3,6 +3,7 @@ public class Main {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 			Logic.start();
 =======
 		Data.start();
@@ -13,5 +14,9 @@ public class Main {
 =======
 		Network.start();
 >>>>>>> Network
+=======
+	    Graphics.start();
+
+>>>>>>> origin/Graphics
 	}
 }
