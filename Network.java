@@ -1,5 +1,6 @@
 public class Network {
 	public static void start() {
-			Network.start();
+				System.out.println("Network");
+
 	}
 }
