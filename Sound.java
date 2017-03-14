@@ -3,22 +3,9 @@ import java.io.InputStreamReader;
 
 public class Sound{
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		BufferedReader in=new BufferedReader(new InputStreamReader(System.in));
-		try {
-			while(true){
-				String s=in.readLine();
-				if(s==null)break;
-				System.out.println("hello, "+s);
-			}
-			
-		} catch (Exception e) {
-			// TODO: handle exception
-			e.printStackTrace();
-		}
-		
-		
+	public static void start() {
+				System.out.println("sound");
+
 	}
 
 }

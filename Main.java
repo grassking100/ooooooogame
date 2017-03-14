@@ -1,26 +1,10 @@
 public class Main {
 	public static void start() {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-			Logic.start();
-=======
+		Logic.start();
 		Data.start();
->>>>>>> origin/Data
-=======
 		Sound.start();
->>>>>>> origin/Sound
-=======
 		Network.start();
->>>>>>> Network
-=======
 	    Graphics.start();
-
->>>>>>> origin/Graphics
-=======
 		Control.start();
->>>>>>> origin/Control
 	}
 }
