@@ -2,6 +2,7 @@ public class Main {
 	public static void start() {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 			Logic.start();
 =======
 		Data.start();
@@ -9,5 +10,8 @@ public class Main {
 =======
 		Sound.start();
 >>>>>>> origin/Sound
+=======
+		Network.start();
+>>>>>>> Network
 	}
 }
